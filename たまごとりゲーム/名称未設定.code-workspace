@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../麻雀4択"
+		},
+		{
+			"path": "../たまごとりゲーム"
+		},
+		{
+			"path": "../マル罰ゲーム"
+		},
+		{
+			"path": "../鬼ごっこゲーム"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "鬼ごっこゲーム"
+	}
+}
